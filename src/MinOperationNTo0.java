@@ -10,6 +10,8 @@ public class MinOperationNTo0 {
 
         //apply the operations until it becomes 0
         // and then return the number of operations
+
+
         while(n>0){
             if(n%2 ==0){
                 n=n/2;
